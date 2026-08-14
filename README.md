@@ -1,2 +1,2 @@
-# git-practice
-Repo for practicing branching, PRs, etc.
+## Notes
+Practicing the GitHub branching and PR workflow.
